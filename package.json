@@ -1,0 +1,23 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "web",
+  "main": "joy",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "joy"
+  },
+  "keywords": [
+    "joy"
+  ],
+  "author": "joy",
+  "license": "UNLICENSED"
+}
